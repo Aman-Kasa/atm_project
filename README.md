@@ -21,8 +21,14 @@ The program uses **functions, loops, and conditional statements** to implement m
 - **Deposit:** Adds a specified amount to the balance. Only positive amounts are accepted.  
 - **Withdraw:** Subtracts a specified amount from the balance if sufficient funds are available. Only positive amounts are accepted.  
 - **Exit:** Terminates the program gracefully.
-
-
+-----------------------------
+ATM Menu:
+1. Check Balance
+2. Deposit
+3. Withdraw
+4. Exit
+Enter your choice:
+-------------------------------
 
 ### Input Validation
 - Menu selection must be a number from 1–4.
