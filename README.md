@@ -35,9 +35,10 @@ The program uses **functions, loops, and conditional statements** to implement m
 
 ## How to Compile and Run
 
-1. Open a terminal and navigate to the project folder:
+- Open a terminal and navigate to the project folder:
 ````bash
-	./atm
+----->>>>> gcc atm.c -o gcc atm
+----->>>>>./atm
 
 
 ## git-hub reposotory
